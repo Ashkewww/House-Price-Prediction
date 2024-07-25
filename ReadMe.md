@@ -1,7 +1,7 @@
 # House Price Prediction using Boston House Dataset
 
 ## Overview
-Welcome to the House Price Prediction project using the Boston House Dataset! This project was developed during my internship as a Machine Learning Intern at Bharat Intern. The aim of this project was to predict house prices based on various features using machine learning techniques.
+Welcome to the House Price Prediction project using the Boston House Dataset!. The aim of this project was to predict house prices based on various features using machine learning techniques.
 
 The project involved data preprocessing, exploratory data analysis, feature selection, and building a regression model to make accurate predictions. The dataset used in this project is the famous Boston House Prices dataset, which contains various attributes like average number of rooms, crime rate, and accessibility to highways among others.
 
